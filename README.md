@@ -1,8 +1,9 @@
-12 Days of Commitmas
+12 Days of Commitmas (2014)
 ====================
 
 Tis the holiday season again, where we relax at home, eat loads of good food and spin driedels. This year, **let's keep learning** all the great stuff learned during the [vBrownbag DevOps sessions](http://professionalvmware.com/vbrownbag-devops-series/).
 
+*Note:* Have an idea for Commitmas? Pull Requests are welcome! 
 ![Holiday octocat](octocat/holiday-octocat.png)
 
 The Challenge
