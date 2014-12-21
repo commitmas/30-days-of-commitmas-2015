@@ -16,6 +16,13 @@ Push yourself to use GitHub everyday throughout the holiday season so that by 20
 
 That's it! If you get stuck or just want to chat with others, be sure to tweet with the hashtag `#vBrownbag`. We'll be out there to help.
 
+If you want more dynamic interaction, join our Slack team! You can get help or collaborate with others. To get access:
+
+1. Tweet @joshcoen or @mjbrender your email address and we'll invite you
+2. Once you get the invite, go to http://slack.com and sign in. The team name is "geekspeak"
+3. Log in with your email address
+4. Start collaborating!
+
 
 Commit to Your Skill Level
 ==
