@@ -95,5 +95,3 @@ We all have different level of expertise when it comes to GitHub.
 # Resources
 
 TO ADD (If needed)
-
-# A Gift for Participation
