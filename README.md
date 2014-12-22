@@ -20,7 +20,7 @@ That's it! If you get stuck or just want to chat with others, be sure to tweet w
 If you want more dynamic interaction, join our Slack team! You can get help or collaborate with others. To get access:
 
 1. Tweet @joshcoen or @mjbrender your email address and we'll invite you
-2. Once you get the invite, go to http://slack.com and sign in. The team name is "geekspeak"
+2. Once you get the invite, go to http://geekspeak.slack.com and sign in
 3. Log in with your email address
 4. Start collaborating!
 
