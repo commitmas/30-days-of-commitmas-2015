@@ -75,12 +75,10 @@ We all have different level of expertise when it comes to GitHub.
 *You're at an advanced level if:* You've created projects in the past, forked other's projects and even offered a pull request or two, but you still feel shaky about the git workflow.
 
 **Setup**:
-* Item 1
-* Item 2
-* Item 3
+* Fork **at least two** repositories you would like to contribute to.
 
 **Your challenge**:
-* Item 1
+* TBD
 
 **Helpful hints**:
 * Hint
