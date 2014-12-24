@@ -1,5 +1,19 @@
 12 Days of Commitmas (2014)
-====================
+===========================
+
+#### Table of Contents
+
+1. [Overview](#overview)
+2. [The Challenge](#the challenge)
+3. [Commit to Your Skill Level](#commit to your skill level)
+    * [Beginner](#beginner)
+    * [Intermediate](#Intermediate)
+    * [Advanced](#advanced)
+    * [Expert](#expert)
+4. [Resources](#resources)
+5. [Projects](#projects)
+
+## Overview
 
 Tis the holiday season again, where we relax at home, eat loads of good food and spin driedels. This year, **let's keep learning** all the great stuff learned during the [vBrownBag DevOps sessions](http://professionalvmware.com/vbrownbag-devops-series/).
 
@@ -7,7 +21,8 @@ Tis the holiday season again, where we relax at home, eat loads of good food and
 ![Holiday octocat](octocat/holiday-octocat.png)
 
 The Challenge
-==
+=============
+
 Push yourself to use GitHub everyday throughout the holiday season so that by 2015 you're ready to share your next project. Here's how: 
 
 1. Schedule time in your calendar for gitting in shape **every day** for the 12 days between December 21st - January 1st
@@ -26,7 +41,7 @@ If you want more dynamic interaction, join our Slack team! You can get help or c
 
 
 Commit to Your Skill Level
-==
+==========================
 We all have different level of expertise when it comes to GitHub. 
 
 
@@ -97,6 +112,17 @@ We all have different level of expertise when it comes to GitHub.
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
 
 
-# Resources
+Resources
+=========
 
 TO ADD (If needed)
+
+Projects
+========
+
+These projects are soliciting pull requests through Commitmas. If you'd like to
+participate but don't have your own ideas, take a look to see if any of these
+projects interest you.
+
+* [rnelson0's powercli-modules](https://github.com/rnelson0/powercli-modules) - PowerShell/PowerCLI modules for vSphere administration.
+
