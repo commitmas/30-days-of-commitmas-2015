@@ -92,7 +92,7 @@ We all have different level of expertise when it comes to GitHub.
 * You've done this a few times.
 
 **Your challenge**:
-* Open a new Pull Request on open source repositories you use **every single day** for the 12 days of Commitmas!
+* Open a new Pull Request on open source repositories you use **every single day** for the 12 days of Commitmas! Don't forget to help out your beginner and intermediate level friends!
 
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
