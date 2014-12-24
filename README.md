@@ -8,7 +8,6 @@
 3. [Commit to Your Skill Level](#commit to your skill level)
     * [Beginner](#beginner)
     * [Intermediate](#Intermediate)
-    * [Advanced](#advanced)
     * [Expert](#expert)
 4. [Resources](#resources)
 5. [Projects](#projects)
@@ -85,19 +84,6 @@ We all have different level of expertise when it comes to GitHub.
 **Helpful hints**:
 * Remember, *documentation is code too (especially when using Markdown)!* Find a project you want to support by improving documentation. Fork it and then make make your contributions during this challenge.
 
-##Advanced
-<a name="advanced"></a>
-*You're at an advanced level if:* You've created projects in the past, forked other's projects and even offered a pull request or two, but you still feel shaky about the git workflow.
-
-**Setup**:
-* TBD 
-
-**Your challenge**:
-* TBD
-
-**Helpful hints**:
-* Hint
-
 ##Expert
 <a name="expert"></a>
 *You're an expert if:* You've managed multiple contributor repositories before, have more than 5 pull request accepted, and want to join in Commitmas to really push yourself.
@@ -111,11 +97,6 @@ We all have different level of expertise when it comes to GitHub.
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
 
-
-Resources
-=========
-
-TO ADD (If needed)
 
 Projects
 ========
