@@ -90,7 +90,7 @@ We all have different level of expertise when it comes to GitHub.
 *You're at an advanced level if:* You've created projects in the past, forked other's projects and even offered a pull request or two, but you still feel shaky about the git workflow.
 
 **Setup**:
-* Fork **at least two** repositories you would like to contribute to.
+* TBD 
 
 **Your challenge**:
 * TBD
@@ -125,4 +125,6 @@ participate but don't have your own ideas, take a look to see if any of these
 projects interest you.
 
 * [rnelson0's powercli-modules](https://github.com/rnelson0/powercli-modules) - PowerShell/PowerCLI modules for vSphere administration.
+* [pyvmomi community examples](https://github.com/vmware/pyvmomi-community-samples) - Python library for vSphere API.
+* [Couch to OpenStack](https://github.com/bunchc/Couch_to_OpenStack) - a Vagrant powered OpenStack environment thanks to your friends at vBrownBag.
 
