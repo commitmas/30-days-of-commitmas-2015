@@ -59,6 +59,7 @@ We all have different level of expertise when it comes to GitHub.
 * Add a meaningful comment to your commit. [Learn the right way to comment your commits.](https://github.com/phonegap/phonegap/wiki/Git-Commit-Message-Format)
 * Push that commit to your GitHub repository
 * Create additional repositories for scripts that you've created to do your job
+* Learn how to use `git commit --amend`
 
 **Helpful hints**:
 * Remember that the goal of this is to *learn how to use GitHub*, so focus on git, not other code you'd also like to learn
@@ -80,6 +81,7 @@ We all have different level of expertise when it comes to GitHub.
 * On your new branch, work on a meaningful contribution to your fork of the repository
 * Add meaningful comments to your commits when you commit on both branches
 * Open a Pull Request on the original repository from your new branch by the end of the 12 days of Commitmas!
+* Learn how to use [`git rebase`](http://rnelson0.com/2014/12/23/using-git-rebase-to-rewrite-history/).
 
 **Helpful hints**:
 * Remember, *documentation is code too (especially when using Markdown)!* Find a project you want to support by improving documentation. Fork it and then make make your contributions during this challenge.
@@ -93,6 +95,7 @@ We all have different level of expertise when it comes to GitHub.
 
 **Your challenge**:
 * Open a new Pull Request on open source repositories you use **every single day** for the 12 days of Commitmas!
+* Write a blog post describing a task/skill that you feel is important for Beginner or Intermediate level users to raise their git-fu!
 
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
