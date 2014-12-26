@@ -59,7 +59,7 @@ We all have different level of expertise when it comes to GitHub.
 * Add a meaningful comment to your commit. [Learn the right way to comment your commits.](https://github.com/phonegap/phonegap/wiki/Git-Commit-Message-Format)
 * Push that commit to your GitHub repository
 * Create additional repositories for scripts that you've created to do your job
-* Learn how to use `git commit --amend`
+* Learn how to use [`git commit --amend`](http://rnelson0.com/2014/12/26/using-git-amend-for-quick-corrections).
 
 **Helpful hints**:
 * Remember that the goal of this is to *learn how to use GitHub*, so focus on git, not other code you'd also like to learn
