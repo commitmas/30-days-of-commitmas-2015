@@ -100,9 +100,12 @@ We all have different level of expertise when it comes to GitHub.
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
 
+#Resources
+<a name="resources"></a>
 
 Projects
 ========
+<a name="projects"></a>
 
 These projects are soliciting pull requests through Commitmas. If you'd like to
 participate but don't have your own ideas, take a look to see if any of these
