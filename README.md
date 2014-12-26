@@ -115,3 +115,4 @@ projects interest you.
 * [pyvmomi community examples](https://github.com/vmware/pyvmomi-community-samples) - Python library for vSphere API.
 * [Couch to OpenStack](https://github.com/bunchc/Couch_to_OpenStack) - a Vagrant powered OpenStack environment thanks to your friends at vBrownBag.
 
+* [mcowger's Python CloudFoundry](https://github.com/mcowger/python-cloudfoundry) - a python module for controlling cloudfoundry v2
