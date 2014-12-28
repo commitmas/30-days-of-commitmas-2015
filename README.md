@@ -85,7 +85,7 @@ We all have different level of expertise when it comes to GitHub.
 * Learn how to use [`git rebase`](http://rnelson0.com/2014/12/23/using-git-rebase-to-rewrite-history/).
 
 **Helpful hints**:
-* Remember, *documentation is code too (especially when using Markdown)!* Find a project you want to support by improving documentation. Fork it and then make make your contributions during this challenge.
+* Remember, *documentation is code too (especially when using Markdown)!* Find a project you want to support by improving documentation. Fork it and then make your contributions during this challenge.
 
 ##Expert
 <a name="expert"></a>
