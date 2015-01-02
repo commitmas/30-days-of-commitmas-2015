@@ -1,5 +1,15 @@
 12 Days of Commitmas (2014)
 ===========================
+-- 
+# Thank You!
+
+The first year of Commitmas is officially complete. I'm incredibly thankful for the contribution of so many that made this fun idea a success. 
+
+*TODO* - Add follow up blog post links to here.
+
+Have an idea for Commitmas 2015? Pull Requests are welcome on the **develop** branch! 
+![Holiday octocat](octocat/holiday-octocat.png)
+
 
 #### Table of Contents
 
@@ -16,8 +26,6 @@
 
 Tis the holiday season again, where we relax at home, eat loads of good food and spin driedels. This year, **let's keep learning** all the great stuff learned during the [vBrownBag DevOps sessions](http://professionalvmware.com/vbrownbag-devops-series/).
 
-*Note:* Have an idea for Commitmas? Pull Requests are welcome! 
-![Holiday octocat](octocat/holiday-octocat.png)
 
 The Challenge
 =============
