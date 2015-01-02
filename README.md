@@ -1,6 +1,5 @@
 12 Days of Commitmas (2014)
 ===========================
--- 
 # Thank You!
 
 The first year of Commitmas is officially complete. I'm incredibly thankful for the contribution of so many that made this fun idea a success. 
