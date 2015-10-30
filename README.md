@@ -1,4 +1,5 @@
-# Commitmas 2: A Month of Merriment (2015)
+# Commitmas 2: A Month of Merriment
+ We're back for 2015!
 
 ![Holiday octocat](octocat/holiday-octocat.png)
 
