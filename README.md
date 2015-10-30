@@ -1,4 +1,4 @@
-12 Days of Commitmas (2014)
+30 Days of Commitmas (2015)
 ===========================
 
 #### Table of Contents
@@ -22,23 +22,53 @@ Tis the holiday season again, where we relax at home, eat loads of good food and
 The Challenge
 =============
 
-Push yourself to use GitHub everyday throughout the holiday season so that by 2015 you're ready to share your next project. Here's how: 
+Push yourself to use GitHub everyday throughout the holiday season so that by 2016 you're ready to share your next project. Here's how: 
 
-1. Schedule time in your calendar for gitting in shape **every day** for the 12 days between December 21st - January 1st
-2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), [Advanced](#advanced), or [Expert](#expert)
+1. Schedule time in your calendar for gitting in shape **every day** for 30 days between December 1st - January 1st
+2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), or [Advanced](#advanced)
 3. Follow the directions under your skill level!
 4. Fork this repository to show that you're participating!
 
 That's it! If you get stuck or just want to chat with others, be sure to tweet with the hashtag `#vBrownBag` or [visit our G+ community page.](https://plus.google.com/u/0/communities/104346122697555179657) We'll be out there to help.
 
-If you want more dynamic interaction, join our Slack team! You can get help or collaborate with others. To get access:
+If you want more dynamic interaction, join our Slack team! You can get help or collaborate with others. 
+
+This year, in addition to Slack and G+, we will be running short #vBrownBag podcasts each week night for the month of December to help ramp up our beginners or dust the rust off for folks with previous exposure to GitHub.
+
+To get access:
 
 1. Tweet @joshcoen or @mjbrender your email address and we'll invite you
 2. Once you get the invite, go to http://geekspeak.slack.com and sign in
 3. Log in with your email address
 4. Start collaborating!
 
+You can register for the #vBrownBag podcast at https://attendee.gotowebinar.com/register/4522811764229913858 
 
+Recordings, as always, will be availabe on YouTube and iTunes
+
+#vBrownBag Commitmas Schedule
+- **Tuesday 12/1** - What is Git/GitHub and why should you use it? With **Matthew Brender @mjbrender**
+- **Wednesday 12/2** - Setting up Windows with **Jonathan Frappier @jfrappier**
+- **Thursday 12/3** - Setting up OSX with **Timmy Carr @timmycarr**
+- **Friday 12/4** - Git Basics - Clone, Add, Commit, & Push
+- **Monday 12/7** - Branching Repositories - Intro, Creating & Checking out branches
+- **Tuesday 12/8** - Forking Repositories and Pull Requests
+- **Wednesday 12/9** - Merge and Merge Conflicts
+- **Thursday 12/10** - Wait I screwed something up and need to roll back!
+- **Friday 12/11** - Rebase with Rob Nelson
+- **Monday 12/14** - 
+- **Tuesday 12/15** - 
+- **Wednesday 12/16** - 
+- **Thursday 12/17** - 
+- **Friday 12/18** - 
+- **Monday 12/21** - 
+- **Tuesday 12/22** - 
+- **Wednesday 12/23** - 
+- **Monday 12/28**
+- **Tuesday 12/29**
+- **Wednesday 12/30**
+
+ 
 Commit to Your Skill Level
 ==========================
 We all have different level of expertise when it comes to GitHub. 
