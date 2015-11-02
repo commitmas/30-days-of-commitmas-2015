@@ -57,7 +57,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Thursday 12/10** - Wait I screwed something up and need to roll back!
 - **Friday 12/11** - Rebase with Rob Nelson
 - **Monday 12/14** - 
-- **Tuesday 12/15** - 
+- **Tuesday 12/15** - Fun git tricks and aliases for bash users **Spencer Krum @nibalizer**
 - **Wednesday 12/16** - 
 - **Thursday 12/17** - 
 - **Friday 12/18** - 
