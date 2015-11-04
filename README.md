@@ -54,7 +54,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Monday 12/7** -     [Branching Repositories - Intro, Creating & Checking out branches](challenges/7) with [Mike Marseglia](https://twitter.com/mmars)
 - **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8) **Need Presenter**
 - **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9) **Need Presenter**
-- **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) **Need Presenter**
+- **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) with [Kyle Ruddy](https://twitter.com/kmruddy)
 - **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
 - **Monday 12/14** -    [](challenges/14)
 - **Tuesday 12/15** -   [Fun git tricks and aliases for bash users](challenges/15) with [Spencer Krum](https://twitter.com/nibalizer)
