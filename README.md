@@ -47,26 +47,26 @@ You can register for the #vBrownBag podcast at https://attendee.gotowebinar.com/
 Recordings, as always, will be availabe on YouTube and iTunes
 
 ## vBrownBag Commitmas Schedule 
-- **Tuesday 12/1** - What is Git/GitHub and why should you use it? With **Matthew Brender @mjbrender**
-- **Wednesday 12/2** - Setting up Windows with **Jonathan Frappier @jfrappier**
-- **Thursday 12/3** - Setting up OSX with **Timmy Carr @timmycarr**
-- **Friday 12/4** - Git Basics - Clone, Add, Commit, & Push
-- **Monday 12/7** - Branching Repositories - Intro, Creating & Checking out branches
-- **Tuesday 12/8** - Forking Repositories and Pull Requests
-- **Wednesday 12/9** - Merge and Merge Conflicts
-- **Thursday 12/10** - Wait I screwed something up and need to roll back!
-- **Friday 12/11** - Rebase with Rob Nelson
-- **Monday 12/14** - 
-- **Tuesday 12/15** - Fun git tricks and aliases for bash users **Spencer Krum @nibalizer**
-- **Wednesday 12/16** - 
-- **Thursday 12/17** - 
-- **Friday 12/18** - 
-- **Monday 12/21** - 
-- **Tuesday 12/22** - 
-- **Wednesday 12/23** - 
-- **Monday 12/28**
-- **Tuesday 12/29**
-- **Wednesday 12/30**
+- **Tuesday 12/1** -    [What is Git/GitHub and why should you use it?](challenges/1) With [Matthew Brender](https://twitter.com/mjbrender)
+- **Wednesday 12/2** -  [Setting up Windows](challenges/2) with [Jonathan Frappier](https://twitter.com/jfrappier)
+- **Thursday 12/3** -   [Setting up OSX](challenges/3) with [Timmy Carr](https://twitter.com/timmycarr)
+- **Friday 12/4** -     [Git Basics - Clone, Add, Commit, & Push](challenges/4)
+- **Monday 12/7** -     [Branching Repositories - Intro, Creating & Checking out branches](challenges/7)
+- **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8)
+- **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9)
+- **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10)
+- **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
+- **Monday 12/14** -    [](challenges/14)
+- **Tuesday 12/15** -   [Fun git tricks and aliases for bash users](challenges/15) with [Spencer Krum](https://twitter.com/nibalizer)
+- **Wednesday 12/16** - [](challenges/16)
+- **Thursday 12/17** -  [](challenges/17)
+- **Friday 12/18** -    [](challenges/18)
+- **Monday 12/21** -    [](challenges/21)
+- **Tuesday 12/22** -   [](challenges/22)
+- **Wednesday 12/23** - [](challenges/23)
+- **Monday 12/28** -    [](challenges/28)
+- **Tuesday 12/29** -   [](challenges/29)
+- **Wednesday 12/30** - [](challenges/30)
 
  
 # Commit to Your Skill Level
@@ -78,22 +78,22 @@ We all have different level of expertise when it comes to GitHub.
 *You're a beginner if:* You're new enough to git that just the act of using it daily will be a lot of learning.
 
 **Setup**:
-* Create a GitHub account
-* [Setup Git](https://help.github.com/articles/set-up-git/)
-* Initialize your own new repository with a README
-* Clone your repository to your local development system
+* Create a GitHub account.
+* [Setup Git.](https://help.github.com/articles/set-up-git/)
+* Initialize your own new repository with a README.md.
+* Clone your repository to your local development system.
 
 **Your challenge**:
-* Update the README.md file **every day** with something you learned that day
+* Update the README.md file **every day** with something you learned that day.
 * Add a meaningful comment to your commit. [Learn the right way to comment your commits.](https://github.com/phonegap/phonegap/wiki/Git-Commit-Message-Format)
-* Push that commit to your GitHub repository
-* Create additional repositories for scripts that you've created to do your job
+* Push that commit to your GitHub repository.
+* Create additional repositories for scripts that you've created to do your job.
 * Learn how to use [`git commit --amend`](http://rnelson0.com/2014/12/26/using-git-amend-for-quick-corrections).
-* [Keep your fork in sync with the original repo](http://rnelson0.com/2014/12/27/updating-your-git-fork-from-the-original-repo/).
+* [Keep your fork in sync with the original repo.](http://rnelson0.com/2014/12/27/updating-your-git-fork-from-the-original-repo/)
 
 **Helpful hints**:
-* Remember that the goal of this is to *learn how to use GitHub*, so focus on git, not other code you'd also like to learn
-* Feel free to use the GitHub website, native apps or command line. [Watch this vBB](http://neckbeardinfluence.com/technical-quick-hacking-your-way-into-github/) on GitHub to help you along
+* Remember that the goal of this is to *learn how to use GitHub*, so focus on git, not other code you'd also like to learn.
+* Feel free to use the GitHub website, native apps or command line. [Watch this vBB](http://neckbeardinfluence.com/technical-quick-hacking-your-way-into-github/) on GitHub to help you along.
 * Markdown is awesomely powerful, so challenge yourself to use some of the more complex syntax. [You can learn it all here.](http://daringfireball.net/projects/markdown/syntax)
 
 
@@ -102,14 +102,14 @@ We all have different level of expertise when it comes to GitHub.
 *You're at an intermediate level if:* You're comfortable with the basics of using git, have lurked around on GitHub but never contributed to a project. 
 
 **Setup**:
-* Fork an interesting repository that you want to contribute to
-* Clone your repository to your local development system
-* Create a new branch to develop in
+* Fork an interesting repository that you want to contribute to.
+* Clone your repository to your local development system.
+* Create a new branch to develop in.
 
 **Your challenge**:
-* Update the repository's Master branch **every day** in some way
-* On your new branch, work on a meaningful contribution to your fork of the repository
-* Add meaningful comments to your commits when you commit on both branches
+* Update the repository's Master branch **every day** in some way.
+* On your new branch, work on a meaningful contribution to your fork of the repository.
+* Add meaningful comments to your commits when you commit on both branches.
 * Open a Pull Request on the original repository from your new branch by the end of the 12 days of Commitmas!
 * Learn how to use [`git rebase`](http://rnelson0.com/2014/12/23/using-git-rebase-to-rewrite-history/).
 
@@ -121,7 +121,7 @@ We all have different level of expertise when it comes to GitHub.
 *You're an expert if:* You've managed multiple contributor repositories before, have more than 5 pull request accepted, and want to join in Commitmas to really push yourself.
 
 **Setup**:
-* You've done this a few times.
+* You've done this a few times, we don't need to tell you how!
 
 **Your challenge**:
 * Open a new Pull Request on open source repositories you use **every single day** for the 30 days of Commitmas! Don't forget to help out your beginner and intermediate level friends!
@@ -143,5 +143,5 @@ projects interest you.
 * [rnelson0's powercli-modules](https://github.com/rnelson0/powercli-modules) - PowerShell/PowerCLI modules for vSphere administration.
 * [pyvmomi community examples](https://github.com/vmware/pyvmomi-community-samples) - Python library for vSphere API.
 * [Couch to OpenStack](https://github.com/bunchc/Couch_to_OpenStack) - a Vagrant powered OpenStack environment thanks to your friends at vBrownBag.
+* [mcowger's Python CloudFoundry](https://github.com/mcowger/python-cloudfoundry) - a python module for controlling cloudfoundry v2.
 
-* [mcowger's Python CloudFoundry](https://github.com/mcowger/python-cloudfoundry) - a python module for controlling cloudfoundry v2
