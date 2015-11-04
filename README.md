@@ -50,18 +50,18 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Tuesday 12/1** -    [What is Git/GitHub and why should you use it?](challenges/1) With [Matthew Brender](https://twitter.com/mjbrender)
 - **Wednesday 12/2** -  [Setting up Windows](challenges/2) with [Jonathan Frappier](https://twitter.com/jfrappier)
 - **Thursday 12/3** -   [Setting up OSX](challenges/3) with [Timmy Carr](https://twitter.com/timmycarr)
-- **Friday 12/4** -     [Git Basics - Clone, Add, Commit, & Push](challenges/4)
-- **Monday 12/7** -     [Branching Repositories - Intro, Creating & Checking out branches](challenges/7)
-- **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8)
-- **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9)
-- **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10)
+- **Friday 12/4** -     [Git Basics - Clone, Add, Commit, & Push](challenges/4) **Need Presenter**
+- **Monday 12/7** -     [Branching Repositories - Intro, Creating & Checking out branches](challenges/7) with [Mike Marseglia](https://twitter.com/mmars)
+- **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8) **Need Presenter**
+- **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9) **Need Presenter**
+- **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) **Need Presenter**
 - **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
 - **Monday 12/14** -    [](challenges/14)
 - **Tuesday 12/15** -   [Fun git tricks and aliases for bash users](challenges/15) with [Spencer Krum](https://twitter.com/nibalizer)
 - **Wednesday 12/16** - [](challenges/16)
 - **Thursday 12/17** -  [](challenges/17)
 - **Friday 12/18** -    [](challenges/18)
-- **Monday 12/21** -    [](challenges/21)
+- **Monday 12/21** -    [Git workflow for supporting network devices](challenges/21) with [Matt Oswalt](https://twitter.com/Mierdin)
 - **Tuesday 12/22** -   [](challenges/22)
 - **Wednesday 12/23** - [](challenges/23)
 - **Monday 12/28** -    [](challenges/28)
