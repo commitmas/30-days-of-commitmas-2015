@@ -50,7 +50,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Tuesday 12/1** -    [What is Git/GitHub and why should you use it?](challenges/1) With [Matthew Brender](https://twitter.com/mjbrender)
 - **Wednesday 12/2** -  [Setting up Windows](challenges/2) with [Jonathan Frappier](https://twitter.com/jfrappier)
 - **Thursday 12/3** -   [Setting up OSX](challenges/3) with [Timmy Carr](https://twitter.com/timmycarr)
-- **Friday 12/4** -     [Git Basics - Clone, Add, Commit, & Push](challenges/4) **Need Presenter**
+- **Friday 12/4** -     [Git Basics - Clone, Add, Commit, & Push](challenges/4) with [Anthony Elizondo](https://twitter.com/complex)
 - **Monday 12/7** -     [Branching Repositories - Intro, Creating & Checking out branches](challenges/7) with [Mike Marseglia](https://twitter.com/mmars)
 - **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8) **Need Presenter**
 - **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9) **Need Presenter**
