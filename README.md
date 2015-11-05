@@ -52,7 +52,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Thursday 12/3** -   [Setting up OSX](challenges/3) with [Timmy Carr](https://twitter.com/timmycarr)
 - **Friday 12/4** -     [Git Basics - Clone, Add, Commit, & Push](challenges/4) with [Anthony Elizondo](https://twitter.com/complex)
 - **Monday 12/7** -     [Branching Repositories - Intro, Creating & Checking out branches](challenges/7) with [Mike Marseglia](https://twitter.com/mmars)
-- **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8) **Need Presenter**
+- **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8) with [Matt Oswalt](https://twitter.com/Mierdin)
 - **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9) **Need Presenter**
 - **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) with [Kyle Ruddy](https://twitter.com/kmruddy)
 - **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
