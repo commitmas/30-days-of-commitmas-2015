@@ -58,7 +58,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
 - **Monday 12/14** -    [](challenges/14)
 - **Tuesday 12/15** -   [Fun git tricks and aliases for bash users](challenges/15) with [Spencer Krum](https://twitter.com/nibalizer)
-- **Wednesday 12/16** - [](challenges/16)
+- **Wednesday 12/16** - [Git Security Workflow - Ensure Confidential Data Not Shared](challenges/16) with [Edward Haletky](https://twitter.com/texiwill)
 - **Thursday 12/17** -  [](challenges/17)
 - **Friday 12/18** -    [](challenges/18)
 - **Monday 12/21** -    [Git workflow for supporting network devices](challenges/21) with [Matt Oswalt](https://twitter.com/Mierdin)
