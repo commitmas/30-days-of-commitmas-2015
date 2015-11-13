@@ -59,12 +59,12 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Monday 12/14** -    [](challenges/14)
 - **Tuesday 12/15** -   [Fun git tricks and aliases for bash users](challenges/15) with [Spencer Krum](https://twitter.com/nibalizer)
 - **Wednesday 12/16** - [Git Security Workflow - Ensure Confidential Data Not Shared](challenges/16) with [Edward Haletky](https://twitter.com/texiwill)
-- **Thursday 12/17** -  [](challenges/17)
+- **Thursday 12/17** -  [Building Web Pages for your Project with Jekyll and Github.io](challenges/17) with [Kellan Damm](https://twitter.com/kellandamm)
 - **Friday 12/18** -    [](challenges/18)
 - **Monday 12/21** -    [Git workflow for supporting network devices](challenges/21) with [Matt Oswalt](https://twitter.com/Mierdin)
 - **Tuesday 12/22** -   [](challenges/22)
 - **Wednesday 12/23** - [](challenges/23)
-- **Monday 12/28** -    [](challenges/28)
+- **Monday 12/28** -    [Contributing to Open Source Projects](challenges/28)**Tentative**
 - **Tuesday 12/29** -   [](challenges/29)
 - **Wednesday 12/30** - [](challenges/30)
 
