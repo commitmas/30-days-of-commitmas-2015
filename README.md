@@ -66,7 +66,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Wednesday 12/23** - [](challenges/23)
 - **Monday 12/28** -    [Contributing to Open Source Projects](challenges/28)**Tentative**
 - **Tuesday 12/29** -   [](challenges/29)
-- **Wednesday 12/30** - [](challenges/30)
+- **Wednesday 12/30** - [Bringing it all Together - Intro to Go](challenges/30) with [Anthony Chow](https://twitter.com/vCloudernBeer)
 
  
 # Commit to Your Skill Level
