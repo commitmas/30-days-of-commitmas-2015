@@ -64,7 +64,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Monday 12/21** -    [Git workflow for supporting network devices](challenges/21) with [Matt Oswalt](https://twitter.com/Mierdin)
 - **Tuesday 12/22** -   [](challenges/22)
 - **Wednesday 12/23** - [](challenges/23)d
-- **Monday 12/28** -    [GitHub and Slack - Better together](challenges/28) with [Kellan Damm)(https://twitter.com/kellandamm)
+- **Monday 12/28** -    [GitHub and Slack - Better together](challenges/28) with [Kellan Damm](https://twitter.com/kellandamm)
 - **Tuesday 12/29** -   [Contributing to Open Source Projects](challenges/29) with [Jordan Rinke](https://twitter.com/jordanrinke)
 - **Wednesday 12/30** - [Bringing it all Together - Intro to Go](challenges/30) with [Anthony Chow](https://twitter.com/vCloudernBeer)
 
