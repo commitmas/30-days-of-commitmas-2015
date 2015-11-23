@@ -25,7 +25,7 @@ Tis the holiday season again, where we relax at home, eat loads of good food and
 Push yourself to use GitHub everyday throughout the holiday season so that by 2016 you're ready to share your next project. Here's how:
 
 1. Schedule time in your calendar for gitting in shape **everyday** for 30 days between December 1st - January 1st
-2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), or [Advanced](#advanced)
+2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), or [Expert](#expert)
 3. Follow the directions under your skill level!
 4. Fork this repository to show that you're participating!
 
