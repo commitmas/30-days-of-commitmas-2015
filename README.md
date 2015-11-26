@@ -101,7 +101,7 @@ We all have different level of expertise when it comes to GitHub. Here are a few
 * Update the repository's Master branch **every single day** in some way.
 * On your new branch, work on a meaningful contribution to your fork of the repository.
 * Add meaningful comments to your commits when you commit on both branches.
-* Open a Pull Request on the original repository from your new branch by the end of the 12 days of Commitmas!
+* Open a Pull Request on the original repository from your new branch by the end of the 30 days of Commitmas!
 * Learn how to use [`git rebase`](http://rnelson0.com/2014/12/23/using-git-rebase-to-rewrite-history/).
 
 **Helpful hints**:
