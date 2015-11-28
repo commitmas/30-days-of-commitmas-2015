@@ -53,7 +53,7 @@ Recordings, as always, will be available [on YouTube](https://www.youtube.com/ch
 - **Thursday 12/17** -  [Building Web Pages for your Project with Jekyll and Github.io](challenges/17) with [Kellan Damm](https://twitter.com/kellandamm)
 - **Friday 12/18** -    [How do you get a hoverboard from 2015 to 1955? Cherry-picking](challenges/18) with [Ryan McKern](https://twitter.com/the_mckern)
 - **Monday 12/21** -    [Git workflow for supporting network devices](challenges/21) with [Matt Oswalt](https://twitter.com/Mierdin)
-- **Tuesday 12/22** -   [](challenges/22)
+- **Tuesday 12/22** -   [Git worktree or flow](challenges/22) with [Igor Galić](https://github.com/hirojin)
 - **Wednesday 12/23** - [](challenges/23)
 - **Monday 12/28** -    [GitHub and Slack - Better together](challenges/28) with [Kellan Damm](https://twitter.com/kellandamm)
 - **Tuesday 12/29** -   [Contributing to Open Source Projects](challenges/29) with [Jordan Rinke](https://twitter.com/jordanrinke)
