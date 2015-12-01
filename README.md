@@ -48,7 +48,7 @@ Recordings, as always, will be available [on YouTube](https://www.youtube.com/ch
 - **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) with [Kyle Ruddy](https://twitter.com/kmruddy)
 - **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
 - **Monday 12/14** -    [The art of the ignore: Using .gitignore](challenges/14) with [Eric Wright](https://twitter.com/discoposse)
-- **Tuesday 12/15** -   [Stop using '-m': Good Commit Messages](challenges/15) with [Hart Hoover](https://twitter.com/hhoover)
+- **Tuesday 12/15** -   [Stop using '-m': Writing Good Commit Messages](challenges/15) with [Hart Hoover](https://twitter.com/hhoover)
 - **Wednesday 12/16** - [Git Security Workflow - Ensure Confidential Data Not Shared](challenges/16) with [Edward Haletky](https://twitter.com/texiwill)
 - **Thursday 12/17** -  [Building Web Pages for your Project with Jekyll and Github.io](challenges/17) with [Kellan Damm](https://twitter.com/kellandamm)
 - **Friday 12/18** -    [How do you get a hoverboard from 2015 to 1955? Cherry-picking](challenges/18) with [Ryan McKern](https://twitter.com/the_mckern)
