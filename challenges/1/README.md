@@ -1,4 +1,4 @@
-# A very humble introduction to GitHub <sup><sub>_on Tuesday, December 1st_</sub></sup>
+# Humble GitHub <sup><sub>_on Tuesday, December 1st_</sub></sup>
 By [Matt Brender](https://twitter.com/mjbrender)
 
 Complete **all three** of the following tasks to level up your skills.
