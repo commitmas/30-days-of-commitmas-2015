@@ -1,7 +1,7 @@
 # Commitmas 2: A Month of Merriment
 Challenge 2 - Setup your Windows PC to use with GitHub
 
-![Holiday octocat](octocat/holiday-octocat.png)
+![Holiday octocat](https://raw.githubusercontent.com/jfrappier/30-days-of-commitmas-2015/master/octocat/holiday-octocat.png)
 
 
 #### Table of Contents
