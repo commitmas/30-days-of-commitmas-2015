@@ -29,6 +29,12 @@ Complete **all three** of the following tasks to level up your skills.
 
 ![moar](cat-i-want-moar.jpg "GIVE ME MOARRRR")
 
+My favorites:
+* [Atlassian Workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/)
+* [Git from the Trenches](https://ochronus.com/git-tips-from-the-trenches/)
+* [This git tutorial](http://www.vogella.com/tutorials/Git/article.html)
+* [Stackoverflow GitHub tags](http://stackoverflow.com/questions/tagged/github)
+
 Here are references I've found crucial to getting good at the basics:
 
 * [GitHub Flavored Markdown](https://help.github.com/articles/github-flavored-markdown/)
