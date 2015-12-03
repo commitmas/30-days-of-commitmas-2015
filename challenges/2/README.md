@@ -1,5 +1,5 @@
 # Commitmas 2: A Month of Merriment
-Challenge 2 - Setup your Windows PC to use with GitHub
+Challenge 2 - Setup your Windows PC to use with GitHub, [recording available](https://www.youtube.com/watch?v=WlY_hqvCmqY&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=2)
 
 ![Holiday octocat](https://raw.githubusercontent.com/jfrappier/30-days-of-commitmas-2015/master/octocat/holiday-octocat.png)
 
