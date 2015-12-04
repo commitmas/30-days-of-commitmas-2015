@@ -56,7 +56,7 @@ Recordings, as always, will be available [on YouTube](https://www.youtube.com/ch
 - **Tuesday 12/22** -   [Git worktree or flow](challenges/22) with [Igor Galić](https://github.com/hirojin)
 - **Wednesday 12/23** - [Building Web Pages for your Project with Jekyll and Github.io](challenges/23) with [Kellan Damm](https://twitter.com/kellandamm)
 - **Monday 12/28** -    [GitHub and Slack - Better together](challenges/28) with [Kellan Damm](https://twitter.com/kellandamm)
-- **Tuesday 12/29** -   [Contributing to Open Source Projects](challenges/29) with [Jordan Rinke](https://twitter.com/jordanrinke)
+- **Tuesday 12/29** -   [Contributing to Open Source Projects](challenges/29) with [Jordan Rinke](https://twitter.com/jordanrinke), [Jon Donas](https://twitter.com/JonDonas), [Dylan Ermet](https://twitter.com/@ReDermet), [Jadon Bennet](https://twitter.com/@jsjben), and [Tanner Kerr](https://twitter.com/TannerMKerr)
 - **Wednesday 12/30** - [Bringing it all Together - Intro to Go](challenges/30) with [Anthony Chow](https://twitter.com/vCloudernBeer)
 
 
