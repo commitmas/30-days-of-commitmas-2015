@@ -7,8 +7,8 @@
 #### Table of Contents
 
 1. [Overview](#overview)
-2. [The Challenge](#the challenge)
-3. [Commit to Your Skill Level](#commit to your skill level)
+2. [The Challenge](#the-challenge)
+3. [Commit to Your Skill Level](#commit-to-your-skill-level)
     * [Beginner](#beginner)
     * [Intermediate](#intermediate)
     * [Expert](#expert)
@@ -22,31 +22,22 @@ Tis the holiday season again, where we relax at home, eat loads of good food and
 
 ## The Challenge
 
-Push yourself to use GitHub everyday throughout the holiday season so that by 2016 you're ready to share your next project. Here's how: 
+Push yourself to use GitHub everyday throughout the holiday season so that by 2016 you're ready to share your next project. Here's how:
 
-1. Schedule time in your calendar for gitting in shape **every day** for 30 days between December 1st - January 1st
-2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), or [Advanced](#advanced)
+1. Schedule time in your calendar for gitting in shape **everyday** for 30 days between December 1st - January 1st
+2. Choose your skill level: [Beginner](#beginner), [Intermediate](#intermediate), or [Expert](#expert)
 3. Follow the directions under your skill level!
 4. Fork this repository to show that you're participating!
 
-That's it! If you get stuck or just want to chat with others, be sure to tweet with the hashtag `#vBrownBag` or [visit our G+ community page.](https://plus.google.com/u/0/communities/104346122697555179657) We'll be out there to help.
+That's it! If you get stuck or just want to chat with others, be sure to [tweet with the hashtag `#vBrownBag`](https://twitter.com/hashtag/vbrownbag) or on [the Geek Speak Slack Channel](http://geekspeak.heroku.com) in the `#learn-github` channel. We'll be out there to help.
 
-If you want more dynamic interaction, join our Slack team! You can get help or collaborate with others. 
+*Note:* The Slack link doesn't always load due to using Heroku free tier. If you want a faster response, ping [Rob on Twitter](https://twitter.com/rnelson0).
 
-This year, in addition to Slack and G+, we will be running short #vBrownBag podcasts each week night for the month of December to help ramp up our beginners or dust the rust off for folks with previous exposure to GitHub.
+We're also recording training daily throughout December. You can register to be notified of #vBrownBag events at https://attendee.gotowebinar.com/register/4522811764229913858.
 
-To get access:
+Recordings, as always, will be available [on YouTube](https://www.youtube.com/channel/UCaZf13iWhwnBdpIkrEmHLbA) and [iTunes](https://itunes.apple.com/us/podcast/professionalvmware-vbrownbag/id468638808?mt=2)
 
-1. Tweet @joshcoen or @mjbrender your email address and we'll invite you OR jump to http://geekspeak.heroku.com
-2. Once you get the invite, go to http://geekspeak.slack.com and sign in
-3. Log in with your email address
-4. Start collaborating!
-
-You can register for the #vBrownBag podcast at https://attendee.gotowebinar.com/register/4522811764229913858 
-
-Recordings, as always, will be availabe on YouTube and iTunes
-
-## vBrownBag Commitmas Schedule 
+## vBrownBag Commitmas Schedule
 - **Tuesday 12/1** -    [What is Git/GitHub and why should you use it?](challenges/1) With [Matthew Brender](https://twitter.com/mjbrender)
 - **Wednesday 12/2** -  [Setting up Windows](challenges/2) with [Jonathan Frappier](https://twitter.com/jfrappier)
 - **Thursday 12/3** -   [Setting up OSX](challenges/3) with [Timmy Carr](https://twitter.com/timmycarr)
@@ -56,21 +47,21 @@ Recordings, as always, will be availabe on YouTube and iTunes
 - **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9) with [Apollo Catlin](https://twitter.com/apollocatlin)
 - **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) with [Kyle Ruddy](https://twitter.com/kmruddy)
 - **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
-- **Monday 12/14** -    [](challenges/14)
-- **Tuesday 12/15** -   [Fun git tricks and aliases for bash users](challenges/15) with [Spencer Krum](https://twitter.com/nibalizer)
+- **Monday 12/14** -    [The art of the ignore: Using .gitignore](challenges/14) with [Eric Wright](https://twitter.com/discoposse)
+- **Tuesday 12/15** -   [Stop using '-m': Writing Good Commit Messages](challenges/15) with [Hart Hoover](https://twitter.com/hhoover)
 - **Wednesday 12/16** - [Git Security Workflow - Ensure Confidential Data Not Shared](challenges/16) with [Edward Haletky](https://twitter.com/texiwill)
-- **Thursday 12/17** -  [Building Web Pages for your Project with Jekyll and Github.io](challenges/17) with [Kellan Damm](https://twitter.com/kellandamm)
-- **Friday 12/18** -    [](challenges/18)
+- **Thursday 12/17** -  [Fun git tricks and aliases for bash users](challenges/17) with [Spencer Krum](https://twitter.com/nibalizer)
+- **Friday 12/18** -    [How do you get a hoverboard from 2015 to 1955? Cherry-picking](challenges/18) with [Ryan McKern](https://twitter.com/the_mckern)
 - **Monday 12/21** -    [Git workflow for supporting network devices](challenges/21) with [Matt Oswalt](https://twitter.com/Mierdin)
-- **Tuesday 12/22** -   [](challenges/22)
-- **Wednesday 12/23** - [](challenges/23)
-- **Monday 12/28** -    [Contributing to Open Source Projects](challenges/28)**Tentative**
-- **Tuesday 12/29** -   [](challenges/29)
-- **Wednesday 12/30** - [](challenges/30)
+- **Tuesday 12/22** -   [Git worktree or flow](challenges/22) with [Igor Galić](https://github.com/hirojin)
+- **Wednesday 12/23** - [Building Web Pages for your Project with Jekyll and Github.io](challenges/23) with [Kellan Damm](https://twitter.com/kellandamm)
+- **Monday 12/28** -    [GitHub and Slack - Better together](challenges/28) with [Kellan Damm](https://twitter.com/kellandamm)
+- **Tuesday 12/29** -   [Contributing to Open Source Projects](challenges/29) with [Jordan Rinke](https://twitter.com/jordanrinke)
+- **Wednesday 12/30** - [Bringing it all Together - Intro to Go](challenges/30) with [Anthony Chow](https://twitter.com/vCloudernBeer)
 
- 
+
 # Commit to Your Skill Level
-We all have different level of expertise when it comes to GitHub. 
+We all have different level of expertise when it comes to GitHub. Here are a few options based on your comfort level. Remember: **focus on learning how git works** and let the other topics follow.
 
 
 ##Beginner - Mostly here!
@@ -84,7 +75,7 @@ We all have different level of expertise when it comes to GitHub.
 * Clone your repository to your local development system.
 
 **Your challenge**:
-* Update the README.md file **every day** with something you learned that day.
+* Update the README.md file **every single day** with something you learned that day.
 * Add a meaningful comment to your commit. [Learn the right way to comment your commits.](https://github.com/phonegap/phonegap/wiki/Git-Commit-Message-Format)
 * Push that commit to your GitHub repository.
 * Create additional repositories for scripts that you've created to do your job.
@@ -99,7 +90,7 @@ We all have different level of expertise when it comes to GitHub.
 
 ##Intermediate
 <a name="intermediate"></a>
-*You're at an intermediate level if:* You're comfortable with the basics of using git, have lurked around on GitHub but never contributed to a project. 
+*You're at an intermediate level if:* You're comfortable with the basics of using git, have lurked around on GitHub but never contributed to a project.
 
 **Setup**:
 * Fork an interesting repository that you want to contribute to.
@@ -107,10 +98,10 @@ We all have different level of expertise when it comes to GitHub.
 * Create a new branch to develop in.
 
 **Your challenge**:
-* Update the repository's Master branch **every day** in some way.
+* Update the repository's Master branch **every single day** in some way.
 * On your new branch, work on a meaningful contribution to your fork of the repository.
 * Add meaningful comments to your commits when you commit on both branches.
-* Open a Pull Request on the original repository from your new branch by the end of the 12 days of Commitmas!
+* Open a Pull Request on the original repository from your new branch by the end of the 30 days of Commitmas!
 * Learn how to use [`git rebase`](http://rnelson0.com/2014/12/23/using-git-rebase-to-rewrite-history/).
 
 **Helpful hints**:
@@ -130,18 +121,15 @@ We all have different level of expertise when it comes to GitHub.
 **Helpful hints**:
 * You really don't need any, but if you complete this challenge, please tell me ([@mjbrender](http://twitter.com/mjbrender)) and I'll definitely buy you a beer.
 
-# Resources
+## Resources
 <a name="resources"></a>
 
 ## Projects
 <a name="projects"></a>
 
-These projects are soliciting pull requests through Commitmas. If you'd like to
-participate but don't have your own ideas, take a look to see if any of these
-projects interest you.
+These projects are soliciting pull requests through Commitmas and will be kind to new users without lots of questions along the way. Give back as part of Commitmas by opening Issues & PRs to any of them!
 
-* [rnelson0's powercli-modules](https://github.com/rnelson0/powercli-modules) - PowerShell/PowerCLI modules for vSphere administration.
-* [pyvmomi community examples](https://github.com/vmware/pyvmomi-community-samples) - Python library for vSphere API.
-* [Couch to OpenStack](https://github.com/bunchc/Couch_to_OpenStack) - a Vagrant powered OpenStack environment thanks to your friends at vBrownBag.
-* [mcowger's Python CloudFoundry](https://github.com/mcowger/python-cloudfoundry) - a python module for controlling cloudfoundry v2.
-
+* [Ruby Stargazer by @mjbrender](https://github.com/mjbrender/ruby-stargazer) - A tool to tally unique starrers across GitHub repositories for an organization.
+* [Transparent Travel by @mjbrender](https://github.com/mjbrender/transparent-travel) - A markdown-only repository to record where I'm flying and where I'd like to fly next.
+* [Anything Puppet by @rnelson0](https://github.com/rnelson0?tab=repositories) - A growing collection of tools written for Puppet
+* [Anything Ansible by @mrlesmithjr](https://github.com/mrlesmithjr?tab=repositories) - A growing collection of Ansible-based tools
