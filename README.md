@@ -73,7 +73,7 @@ Recordings, as always, will be availabe on YouTube and iTunes
 We all have different level of expertise when it comes to GitHub. 
 
 
-##Beginner
+##Beginner - Mostly here!
 <a name="beginner"></a>
 *You're a beginner if:* You're new enough to git that just the act of using it daily will be a lot of learning.
 
