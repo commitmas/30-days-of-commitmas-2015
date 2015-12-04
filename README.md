@@ -46,7 +46,7 @@ Recordings, as always, will be available [on YouTube](https://www.youtube.com/ch
 - **Tuesday 12/8** -    [Forking Repositories and Pull Requests](challenges/8) with [Matt Oswalt](https://twitter.com/Mierdin)
 - **Wednesday 12/9** -  [Merge and Merge Conflicts](challenges/9) with [Apollo Catlin](https://twitter.com/apollocatlin)
 - **Thursday 12/10** -  [Wait I screwed something up and need to roll back!](challenges/10) with [Kyle Ruddy](https://twitter.com/kmruddy)
-- **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0)
+- **Friday 12/11** -    [Rebasing](challenges/11) with [Rob Nelson](https://twitter.com/rnelson0) *at a special time, 3PM Eastern*
 - **Monday 12/14** -    [The art of the ignore: Using .gitignore](challenges/14) with [Eric Wright](https://twitter.com/discoposse)
 - **Tuesday 12/15** -   [Stop using '-m': Writing Good Commit Messages](challenges/15) with [Hart Hoover](https://twitter.com/hhoover)
 - **Wednesday 12/16** - [Git Security Workflow - Ensure Confidential Data Not Shared](challenges/16) with [Edward Haletky](https://twitter.com/texiwill)
