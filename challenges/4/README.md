@@ -18,7 +18,7 @@ Challenge 4 - Git Basics - Clone, Add, Commit and Push!
 
 To full participate in #Commitmas, you will need to have a working environment to work with repositores and associated files.
 For this challenge all you'll need is a git client.
-In this challege we'll cover the most basic Git commands: Clone, Add, Commit and Push.
+In this challenge we'll cover the most basic Git commands: Clone, Add, Commit and Push.
 
 ## The Challenge
 
