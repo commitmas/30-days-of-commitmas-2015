@@ -64,7 +64,7 @@ Recordings, as always, will be available [on YouTube](https://www.youtube.com/ch
 We all have different level of expertise when it comes to GitHub. Here are a few options based on your comfort level. Remember: **focus on learning how git works** and let the other topics follow.
 
 
-##Beginner
+##Beginner - Mostly here!
 <a name="beginner"></a>
 *You're a beginner if:* You're new enough to git that just the act of using it daily will be a lot of learning.
 
