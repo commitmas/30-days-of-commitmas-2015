@@ -1,5 +1,5 @@
 # Commitmas 2: A Month of Merriment
-Challenge 3 - Setup OSX for Commitmas Excellence! 
+Challenge 3 - Setup OSX for Commitmas Excellence! [Recording available.](https://www.youtube.com/watch?v=Nrzw3zkJsn8&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=3)
 
 ![Holiday octocat](https://raw.githubusercontent.com/timmycarr/30-days-of-commitmas-2015/master/octocat/holiday-octocat.png)
 
