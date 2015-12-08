@@ -1,5 +1,5 @@
 # Commitmas 2: A Month of Merriment
-Challenge 4 - Git Basics - Clone, Add, Commit and Push! 
+Challenge 4 - Git Basics - Clone, Add, Commit and Push! [Recording available.](https://www.youtube.com/watch?v=0t2YVNV5HBg&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=4)
 
 ![Holiday octocat](https://raw.githubusercontent.com/timmycarr/30-days-of-commitmas-2015/master/octocat/holiday-octocat.png)
 
