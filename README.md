@@ -35,7 +35,7 @@ That's it! If you get stuck or just want to chat with others, be sure to [tweet 
 
 We're also recording training daily throughout December. You can register to be notified of #vBrownBag events at https://attendee.gotowebinar.com/register/4522811764229913858.
 
-Recordings, as always, will be available [on YouTube](https://www.youtube.com/channel/UCaZf13iWhwnBdpIkrEmHLbA) and [iTunes](https://itunes.apple.com/us/podcast/professionalvmware-vbrownbag/id468638808?mt=2)
+Recordings are currently available on YouTube in our [Commitmas Playlist](https://www.youtube.com/playlist?list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t) and will be available soon in [iTunes](https://itunes.apple.com/us/podcast/professionalvmware-vbrownbag/id468638808?mt=2)
 
 ## vBrownBag Commitmas Schedule
 - **Tuesday 12/1** -    [What is Git/GitHub and why should you use it?](challenges/1) With [Matthew Brender](https://twitter.com/mjbrender)
