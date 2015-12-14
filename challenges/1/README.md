@@ -1,5 +1,7 @@
-# Humble GitHub <sup><sub>_on Tuesday, December 1st_</sub></sup>
-By [Matt Brender](https://twitter.com/mjbrender), [recording available](https://www.youtube.com/watch?v=WlY_hqvCmqY&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=1)
+# Commitmas 2: A Month of Merriment
+Challenge 1 - Humble GitHub
+
+By [Matt Brender](https://twitter.com/mjbrender), [recording available](https://www.youtube.com/watch?v=WlY_hqvCmqY&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=1).
 
 Complete **all three** of the following tasks to level up your skills.
 

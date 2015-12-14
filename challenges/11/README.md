@@ -1,5 +1,21 @@
-## Challenge for 12/11: Rebasing
-By [Rob Nelson](https://twitter.com/rnelson0), [recording available](https://www.youtube.com/watch?v=Vi8AVNdU5yY&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=9)
+# Commitmas 2: A Month of Merriment
+Challenge 11 - Rebasing
+
+By [Rob Nelson](https://twitter.com/rnelson0), [recording available](https://www.youtube.com/watch?v=0t2YVNV5HBg&list=PL2rC-8e38bUXloBOYChAl0EcbbuVjbE3t&index=9).
+
+#### Table of Contents
+
+1. [Overview](#overview)
+2. [Re-apply your commit history against HEAD](#re-apply-your-commit-history-against-HEAD)
+3. [Rewriting History](#rewriting-history)
+   * [Preserve Commits](#preserve-commits)
+   * [Edit Commits](#edit-commits)
+   * [Merge Commits](#merge-commits)
+   * [Discard or re-order commits](#discard-or-re-order-commits)
+4. [Sharing the New History](#sharing-the-new-history)
+5. [Challenge](#challenge)
+
+### Overview
 
 Today we will examine the [git-rebase](https://git-scm.com/docs/git-rebase) command, commonly invoked as `git rebase`. What does this command do?
 
@@ -9,7 +25,7 @@ Forward-port local commits to the updated upstream head
 
 So, the documentation isn't particularly helpful in describing this function to a neophyte. We can better describe a rebase as allowing us to rewrite our commit history. There are many things we can do with the rebase command. We will focus on two particular use cases today.
 
-### Re-apply your branches commits on an updated master
+### Re-apply your commit history against HEAD
 
 The documentation text is not awesome but there are some useful diagrams. Imagine that we created a branch `topic` some time ago from `master`, but additional commits have been made since then.
 
@@ -112,6 +128,6 @@ Don't forget to push the modified branch to the remote! You may have noted that 
 
 Be very careful with force, it can be destructive! I prefer to push without the `-f` flag and receive an error indicating the checksums have changed, then hit the up arrow and add `-f` to the end of the command, to ensure I don't make a mistake like leaving out the branch name and using `git push -f`. If you create such a git-astrophe, you'll want to look into [git-reflog](https://git-scm.com/docs/git-reflog) for assistance in recovering from your error. There are a few [tutorials](http://effectif.com/git/recovering-lost-git-commits) out there if you do run into problems.
 
-## Challenge
+### Challenge
 
 Fork and clone the repository [2015-challenge-11](https://github.com/commitmas/2015-challenge-11). Checkout the branches [dirty-commits](https://github.com/commitmas/2015-challenge-11/tree/dirty-commits) and [clean-commits](https://github.com/commitmas/2015-challenge-11/tree/clean-commits). Use rebase to make the history and diff of `dirty-commits` look the same as `clean-commits`.
