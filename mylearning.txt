@@ -1,0 +1,11 @@
+I forked commitmas 30 day challenge on github
+used source tree to connect clone my commitmas fork into my local repo
+modified one file - first commit on master branch, 
+looked at change in history- all local branch heads point to my change
+locally there are 3 branches- one master, and one origin/master and one origin/head
+
+checked if my commit was pushed to github
+
+it was 
+
+pushed my change up to remote ?
