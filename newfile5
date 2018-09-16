@@ -1,4 +1,4 @@
-was able to checkin without a merge conflict!
-
-doh. i have to edit the remot to CREATE a conflict.
-trying again
+ok my remote edit did not get into github because i did not edit while i was in the master-
+i edited somewhere else
+so my local changes with doh got checked in without conflict.
+now i will need to edit newfile5 in local to create conflict
