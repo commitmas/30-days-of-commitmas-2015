@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 file to push with newfile4
+=======
+this is a file created in github remote branch master. the same file exists in the local repo as well in committed state.
+
+what happens on fetch ?
+>>>>>>> fd6e6f58756000bb70df97aae07bf3e12ab4552d
