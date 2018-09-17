@@ -1,0 +1,3 @@
+we can see these commits in local when i do a fetch- but they dont show up in working directory
+
+i have to checkout dev2branch locally and then can see these commits

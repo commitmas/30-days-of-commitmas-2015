@@ -1,0 +1,15 @@
+if i try to push a file with a potential conflict without a pull and merge resolve 
+i get this
+git -c diff.mnemonicprefix=false -c core.quotepath=false -c credential.helper=sourcetree push -v --tags origin refs/heads/master:refs/heads/master 
+Pushing to https://github.com/silverglitter/30-days-of-commitmas-2015.git
+To https://github.com/silverglitter/30-days-of-commitmas-2015.git
+ ! [rejected]        master -> master (fetch first)
+error: failed to push some refs to 'https://github.com/silverglitter/30-days-of-commitmas-2015.git'
+hint: Updates were rejected because the remote contains work that you do
+hint: not have locally. This is usually caused by another repository pushing
+hint: to the same ref. You may want to first integrate the remote changes
+hint: (e.g., 'git pull ...') before pushing again.
+hint: See the 'Note about fast-forwards' in 'git push --help' for details.
+Completed with errors, see above
+
+so do a git pull....
